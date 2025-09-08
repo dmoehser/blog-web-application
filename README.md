@@ -1,4 +1,4 @@
-# Blog Web Application - My Third Web Project
+# Blog Web Application
 
 A full-stack blog web application built with Node.js, Express, and EJS templating. Features CRUD operations for blog posts, responsive design, and a clean user interface for creating, editing, and managing blog content.
 
