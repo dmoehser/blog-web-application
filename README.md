@@ -40,11 +40,15 @@ I wanted to learn full-stack web development and understand how to build dynamic
 
 This project helped me understand the fundamentals of full-stack development and prepared me for more complex applications with databases and persistent data storage.
 
+## Live Demo
+
+Visit the live application: [https://blog-web-application-gvb4.onrender.com](https://blog-web-application-gvb4.onrender.com)
+
+*Note: The demo may take a few seconds to load due to Render's free tier sleep mode.*
+
 ## GitHub Repository
 
 View source code: [https://github.com/dmoehser/blog-web-application](https://github.com/dmoehser/blog-web-application)
-
-*Note: This project is currently only available locally. To view it, clone the repository and run `npm install` followed by `npm start`.*
 
 ## Project Structure
 
